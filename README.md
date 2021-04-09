@@ -24,7 +24,7 @@
    
 <div>
    
-<br>**A.** ログインすると、<br>![MicrosoftTeams-image (14)](https://user-images.githubusercontent.com/53014757/114153375-362da700-995a-11eb-9739-f2a8da217280.png)<br>☝️の画像が出てくるので、入力欄を埋めて送信する（LINE Developersのアカウントを作成する）感じです<br>
+<br>A. ログインすると、<br>LINE Developersのアカウントを作成する画面に遷移するので、入力欄埋めて登録してください！<br>
 
 <br>
 
@@ -36,7 +36,7 @@
    
 <div>
    
-<br>**A.** ![MicrosoftTeams-image (15)](https://user-images.githubusercontent.com/53014757/114154332-3e3a1680-995b-11eb-9511-a9052603d60a.png)<br>上記画像から見るに、現状テキストは日本ということなので大丈夫そうです<br>画像をbotから送る際は、他国に一時保存されてても問題ない画像を選択するようにしてくださいね<br>
+<br>A. 現状テキストは日本ということなので大丈夫そうです<br>画像をbotから送る際は、他国に一時保存されてても問題ない画像を選択するようにしてくださいね<br>
 
 <br>
 
@@ -52,7 +52,7 @@
    
 <div>
    
-<br>**A.** cli必要です！<br>あと、生成したurlでhookされる感じにするのでFirebase Hosting使用で問題ないです！<br>
+<br>A. cli必要です！<br>あと、生成したurlでhookされる感じにするのでFirebase Hosting使用で問題ないです！<br>
 
 <br>
 </div>
