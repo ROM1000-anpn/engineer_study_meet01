@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# 2021.04.30 エンジニアゼミ　LINEbotを作ろうRTA
 
-You can use the [editor on GitHub](https://github.com/ROM1000-anpn/engineer_study_meet01/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 事前準備編
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. [LINE Developers](https://developers.line.biz/ja/)にログインする
+   自分のLINEアカウントで登録できます
+2. Developers consoleを使用するアカウントの必要情報を入力して送信
+3. botをホストするサーバーを用意する
+   これについてはFirebaseでもHerokuでもなんでもokです！
+   ※今回のハンズオンでは、Firebaseを使用します(無料枠で済みそうなので)
+4. **準備完了！**
+   LINE Developersコンソール画面からプロバイダをつくるところから、ハンズオンスタートしていきます🐰
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### それでは、今月のエンジニアゼミをお楽しみに！
 
-# Header 1
-## Header 2
-### Header 3
+当日のエンジニアゼミでは、対話形式の自動応答を一緒に作ります！  
+**事前準備の中でなにか不明な点や、詰まったりしたらお気軽にご相談ください！**
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ROM1000-anpn/engineer_study_meet01/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
